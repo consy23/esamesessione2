@@ -1,0 +1,14 @@
+{
+  "home": {
+    "titolo": "index",
+    "contenuto": "Questo è il contenuto della nostra homepage"
+  },
+  "progetti": {
+    "titolo": "chisono-progetti",
+    "contenuto": "Ecco alcuni dei miei progetti."
+  },
+  "chi_sono": {
+    "titolo": "contatti",
+    "contenuto": "modulo per contattarmi"
+  }
+}
